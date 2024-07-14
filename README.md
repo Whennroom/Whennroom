@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Whennroom
+- 👀 hi
+- 🌱 I’m currently learning /Bash
+- 💞️ ok  
+- 📫 .
+--->
